@@ -1,0 +1,11 @@
+/Users/bolt/code/dotnet-api/breakfast/breakfast.contracts/bin/Debug/net8.0/breakfast.contracts.deps.json
+/Users/bolt/code/dotnet-api/breakfast/breakfast.contracts/bin/Debug/net8.0/breakfast.contracts.dll
+/Users/bolt/code/dotnet-api/breakfast/breakfast.contracts/bin/Debug/net8.0/breakfast.contracts.pdb
+/Users/bolt/code/dotnet-api/breakfast/breakfast.contracts/obj/Debug/net8.0/breakfast.contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bolt/code/dotnet-api/breakfast/breakfast.contracts/obj/Debug/net8.0/breakfast.contracts.AssemblyInfoInputs.cache
+/Users/bolt/code/dotnet-api/breakfast/breakfast.contracts/obj/Debug/net8.0/breakfast.contracts.AssemblyInfo.cs
+/Users/bolt/code/dotnet-api/breakfast/breakfast.contracts/obj/Debug/net8.0/breakfast.contracts.csproj.CoreCompileInputs.cache
+/Users/bolt/code/dotnet-api/breakfast/breakfast.contracts/obj/Debug/net8.0/breakfast.contracts.dll
+/Users/bolt/code/dotnet-api/breakfast/breakfast.contracts/obj/Debug/net8.0/refint/breakfast.contracts.dll
+/Users/bolt/code/dotnet-api/breakfast/breakfast.contracts/obj/Debug/net8.0/breakfast.contracts.pdb
+/Users/bolt/code/dotnet-api/breakfast/breakfast.contracts/obj/Debug/net8.0/ref/breakfast.contracts.dll
